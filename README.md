@@ -55,7 +55,7 @@ The project is implemented using **Python in Google Colab**, making it easy to r
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/retail-store-analysis.git
+git clone https://github.com/Priyanshuyadav13/retail-store-analysis.git
 
 2. Navigate to the project directory
 
